@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Lokhande</h1>
 <h3 align="center">IT Student ,Excited to be an Engineer</h3>
 
-- 🔭 I’m currently Studing on **RMD Sinhgad School of Engineering**
+- 🔭 I’m currently Studing in **RMD Sinhgad School of Engineering**
 
 - 🌱 I’m currently learning **SQL**
 

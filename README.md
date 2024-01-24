@@ -1,4 +1,5 @@
-<a href="https://github.com/aryan-lokhande" ><img alt="views" align="right" title="Github views" src="https://komarev.com/ghpvc/?username=aryan-lokhande&style=flat-square" width="125"/></a>
+ <a href="https://github.com/aryan-lokhande" ><img alt="views" align="right" title="Github views" src="https://komarev.com/ghpvc/?username=aryan-lokhande&style=flat-square" width="125"/></a>  
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-lokhande&label=Profile%20views&color=1c87ca&style=plastic" alt="aryan-lokhande" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Aryan Lokhande</h1>
 <h3 align="center">IT Student ,Excited to be an Engineer</h3>
@@ -23,9 +24,11 @@
 <HR>
 
 <!--Githup Streak Stats-->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&" alt="aryan-lokhande" /></p>  
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&" alt="aryan-lokhande" /></p> --> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&theme=dark" alt="aryan-lokhande" /></p>
 <!--Most use languages for code-->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-lokhande&show_icons=true&locale=en&layout=compact" alt="aryan-lokhande" /></p>
+
 
 <!--  Stats on git Hup ,Will Publish After few more projects
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-lokhande&show_icons=true&locale=en" alt="aryan-lokhande" /></p>

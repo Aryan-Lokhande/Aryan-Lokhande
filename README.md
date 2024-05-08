@@ -2,7 +2,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-lokhande&label=Profile%20views&color=1c87ca&style=plastic" alt="aryan-lokhande" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Aryan Lokhande</h1>
-<h3 align="center">IT Student ,Excited to be an Engineer</h3>
+<h3 align="center">IT Student</h3>
 
 - 🔭 I’m currently Studing in **RMD Sinhgad School of Engineering**
 
@@ -30,8 +30,8 @@
 
 <!--Githup Streak Stats-->
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&" alt="aryan-lokhande" /></p> --> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&theme=dark" alt="aryan-lokhande" /></p>
-<!--Most use languages for code-->
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lokhande&theme=dark" alt="aryan-lokhande" /></p> -->
+<!--Most use languages for code
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-lokhande&show_icons=true&locale=en&layout=compact" alt="aryan-lokhande" /></p>
 
 

@@ -10,14 +10,52 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan-Lokhande](https://github.com/Aryan-Lokhande)
 
-- 😎 Portfolio link: https://portfolio-aryan-lokhandes-projects.vercel.app/
+- 😎 Portfolio link: https://portfolio-aryan-lokhandes-projects.vercel.app
 
 - 📫 How to reach me **aryanlok619@gmail.com**
-<hr>
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan lokhande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan lokhande" height="30" width="40" /></a>
 </p>
+
+## Competitive Programming Stats
+### 🔸 Leetcode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-aryan__lokhande-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aryan-lokhande/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aryan-lokhande?theme=dark&font=baloo)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<table width="100%" align="center">
+<tr>
+<!-- <td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neha-Singh-j&theme=2077" alt="Profile Summary">
+</td> -->
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Aryan-Lokhande&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em"
+       src="https://github-readme-streak-stats-eight.vercel.app?user=Aryan-Lokhande&theme=midnight-purple"
+       alt="Streak Stats"/>
+</td>
+
+</tr>
+</table>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

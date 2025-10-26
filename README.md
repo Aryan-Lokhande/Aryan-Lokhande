@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently Studing in **RMD Sinhgad School of Engineering**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan-Lokhande](https://github.com/Aryan-Lokhande)
 
 - 😎 Portfolio link: https://portfolio-aryan-lokhandes-projects.vercel.app
